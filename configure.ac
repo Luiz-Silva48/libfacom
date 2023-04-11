@@ -5,4 +5,3 @@ AC_PROG_CC
 AC_CONFIG_FILES([Makefile src/Makefile tests/Makefile])
 AC_OUTPUT
 AC_CONFIG_MACRO_DIRS([m4])
-
